@@ -1,0 +1,1 @@
+data modify block ~ ~ ~ Items set value [{Slot:4b,id:"minecraft:book",Count:1b,tag:{display:{Name:'{"text":"LTHC Guide Book","color":"#B663FF","bold":false,"italic":false,"underlined":false}'},CustomModelData:27103,lthc.utils.guide_book:true}}]

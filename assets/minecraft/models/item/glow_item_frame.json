@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glow_item_frame"
+  },
+
+  "overrides": [
+		{"predicate": {"custom_model_data":27101}, "model": "lthc_utils:lthc_table"},
+		{"predicate": {"custom_model_data":27102}, "model": "lthc_utils:air_fisher"}
+  ]
+}
