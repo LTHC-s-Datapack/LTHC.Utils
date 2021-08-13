@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:writable_book"
+        },
+        "title": "LTHC.Utils Discovery",
+        "description": ""
+    },
+    "parent": "lthc.global:big/lthc.utils/lthc.utils",
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    }
+}

@@ -10,3 +10,5 @@ execute as @a[scores={lthc.utils_page=3}] run function lthc.utils:guide/message/
 execute as @a[scores={lthc.utils_page=4}] run function lthc.utils:guide/message/craft/lt
 execute as @a[scores={lthc.utils_page=5}] run function lthc.utils:guide/message/craft/af
 execute as @a[scores={lthc.utils_page=6}] run function lthc.utils:guide/message/craft/gb
+
+schedule function lthc.utils:tick 1t replace

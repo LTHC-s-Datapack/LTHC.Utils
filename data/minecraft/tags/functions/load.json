@@ -1,5 +1,5 @@
 {
     "values": [
-        "lthc.utils:load"
+        "#lthc.utils:_private/loader/load/load"
     ]
 }
