@@ -26,6 +26,7 @@
 		{"predicate": {"custom_model_data":1502}, "model": "item/spells/sp4/mo_ki"},
 		
 		{"predicate": {"custom_model_data":2201}, "model": "item/giga/comp"},
-		{"predicate": {"custom_model_data":2202}, "model": "item/giga/sp1"}
+		{"predicate": {"custom_model_data":2202}, "model": "item/giga/sp1"},
+		{"predicate": {"custom_model_data":2203}, "model": "item/giga/sp2"}
 	]
 }
