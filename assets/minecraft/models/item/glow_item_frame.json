@@ -6,6 +6,8 @@
 
   "overrides": [
 		{"predicate": {"custom_model_data":27101}, "model": "lthc_utils:lthc_table"},
-		{"predicate": {"custom_model_data":27102}, "model": "lthc_utils:air_fisher"}
+		{"predicate": {"custom_model_data":27102}, "model": "lthc_utils:air_fisher"},
+
+		{"predicate": {"custom_model_data":28101}, "model": "lthc_mech:energy_transmitter/energy_transmitter_copper_level"}
   ]
 }
