@@ -1,6 +1,7 @@
 {
     "LTHC Table": "Table LTHC",
     "Air Fisher": "Pêcheur dans l'Air",
+    "LTHC.Utils was succesfully uninstalled": "LTHC.Utils a été désinstallé avec succés",
 
     "[Book] kaometicolinuriam": "[Livre] kaometicolinuriam",
     "[Book] Universal Mana": "[Livre] Mana Universel",
@@ -64,9 +65,19 @@
     "Have a magic level 3 or greater, and 2500+ mana for the best magic": "Ayez un niveau magique de 3 ou +, et 2500+ mana pour la MAGIE",
     "By the ice's power, you can slow your enemies": "Par le pouvoir du givre, vous pouvez ralentir vos enemies",
     "The Ice!": "Le Givre!",
-    "Water Power": "Povir de l'Eau",
+    "Water Power": "Pouvoir de l'Eau",
     "Now you cannot config some properties of LTHC's Magic And Spells Universe": "Maintenant tu ne peux plus configurer certaines propriétés de LTHC's Magic And Spells Universe",
     "Now you can config some properties of LTHC's Magic And Spells Universe": "Maintenant tu peux configurer certaines propriétés de LTHC's Magic And Spells Universe",
     "The Anger of God is comming on this world": "La Colère de Dieu arrive sur ce monde",
-    " \"lmasu\" owned entities were cleared": " entités \"lmasu\" ont été éliminées"
+    " \"lmasu\" owned entities were cleared": " entités \"lmasu\" ont été éliminées",
+    "was loaded": "est chargé",
+    "Thanks for use this datapack of magic": "Merci d'utiliser ce datapack de magie",
+    "You can claim guide books with ": "vous pouvez obtenir les livres d'aide avec ",
+    "Author: LTHC, Credits: Thanks to ": "Auteur: LTHC, Crédits: Merci au ",
+    "DataWorld discord": "discord DataWorld",
+    " for help": " pour l'aide",
+    "Github link: ": "Lien Github: ",
+    "click here": "clic ici",
+    "\n  __  __  __\n\u263a Enjoy magic \u263a": "\n  __  __  __\n\u263a Aime la magie \u263a",
+    "LTHC's Magic And Spells Universe was succesfully uninstalled": "LTHC's Magic And Spells Universe a été désinstallé avec succés"
 }
