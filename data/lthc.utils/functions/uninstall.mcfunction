@@ -12,7 +12,7 @@ function #lthc.utils:uninstall/uninstall
 
 tellraw @a [{"translate":"LTHC.Utils was succesfully uninstalled","bold":true,"underlined":true,"color":"#FFFF00"}]
 
-datapack disable "file/lthc.utils_dp_1.4v"
-datapack disable "file/lthc.utils_dp_1.4v.zip"
+datapack disable "file/lthc.utils_dp_1.5v"
+datapack disable "file/lthc.utils_dp_1.5v.zip"
 datapack disable "file/lthc.utils_dp"
 datapack disable "file/lthc.utils_dp.zip"
